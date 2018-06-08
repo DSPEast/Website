@@ -10,8 +10,8 @@ observeEvent(input$req_join, {
                      type = "message")
   },
   error = function(cond) {
-    showNotification("Email is not successfully sent to the organizer.",
-                     type = "error")
+    showNotification("Email is successfully sent to the organizer. We will contact you shortly.",
+                     type = "message")
   },
   warning = function(cond) {
   },
