@@ -1,0 +1,10 @@
+name: home
+title:
+username:
+account: dspeast
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 357800
+bundleId: 1419624
+url: https://dspeast.shinyapps.io/home/
+when: 1528488559.89213
